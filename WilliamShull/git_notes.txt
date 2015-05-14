@@ -1,0 +1,7 @@
+git init/add <files>/commit -m "comments"/push <remote> <master>
+git status is your friend.
+formatting commit comments as so:
+"text for summary
+
+body of your notes
+go down some lines"

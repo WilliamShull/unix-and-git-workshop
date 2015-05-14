@@ -1,0 +1,4 @@
+suble <file_name> opens a file (or folder) in sublime text.
+rm <file_name> and rmdir for deleting files and directories. add -rf for forced recursive if not empty
+. refers to the current directory, and .. to its parent
+Most inportantly, who needs finder when you have shell?
